@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>   
+                              
+          <array>
+              <!--软件包-->
+              <dict>
+                  <key>kind</key>
+                  <string>software-package</string>
+                  <key>url</key>
+                  <string>http://release.17kanshipin.com/app-ios/unblockcn.ipa</string>
+              </dict> 
+              
+              <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <!-- <string>https://raw.githubusercontent.com/Aircoop/unblockcn/master/hiapp_logo%402x.png</string> -->
+
+                </dict>
+
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <!-- <string>https://raw.githubusercontent.com/Aircoop/unblockcn/master/hiapp_logo%402x.png</string> -->
+
+                </dict>
+           </array>
+            
+            <key>metadata</key>
+            
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.af.firstVideo</string>
+                <key>bundle-version</key>
+                <string>1.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>软件名？</string>
+            </dict>
+            
+        </dict>
+    </array>
+</dict>
+</plist>
