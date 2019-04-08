@@ -8,7 +8,6 @@
             <key>assets</key>   
                               
           <array>
-              <!--软件包-->
               <dict>
                   <key>kind</key>
                   <string>software-package</string>
@@ -22,8 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <!-- <string>https://raw.githubusercontent.com/Aircoop/unblockcn/master/hiapp_logo%402x.png</string> -->
-
+                    <string>https://github.com/WhereareUmylove/plist/blob/master/hiapp_logo%402x.png</string>
                 </dict>
 
                 <dict>
@@ -32,8 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <!-- <string>https://raw.githubusercontent.com/Aircoop/unblockcn/master/hiapp_logo%402x.png</string> -->
-
+                    <string>https://github.com/WhereareUmylove/plist/blob/master/hiapp_logo%402xx.png</string>
                 </dict>
            </array>
             
@@ -47,7 +44,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>软件名？</string>
+                <string>UNBLOCKCN</string>
             </dict>
             
         </dict>
