@@ -14,6 +14,22 @@
                   <key>url</key>
                   <string>http://ios.xunbao890.com/QrCodeScan.ipa</string>
               </dict>
+              <dict>
+                <key>kind</key>
+                <string>display-image</string>
+                <key>needs-shine</key>
+                <true/>
+                <key>url</key>
+                <string>https://raw.githubusercontent.com/Aircoop/unblockcn/master/hiapp_logo%402x.png</string>
+            </dict>
+            <dict>
+                <key>kind</key>
+                <string>full-size-image</string>
+                <key>needs-shine</key>
+                <true/>
+                <key>url</key>
+                <string>https://raw.githubusercontent.com/Aircoop/unblockcn/master/hiapp_logo%402xx.png</string>
+            </dict>
 
            </array>
             
