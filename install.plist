@@ -14,24 +14,7 @@
                   <key>url</key>
                   <string>http://ios.xunbao890.com/QrCodeScan.ipa</string>
               </dict>
-              
-              <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://ios.xunbao890.com/hiapp_logo%402x.png</string>
-                </dict>
 
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://ios.xunbao890.com/hiapp_logo%402xx.png</string>
-                </dict>
            </array>
             
             <key>metadata</key>
@@ -40,11 +23,11 @@
                 <key>bundle-identifier</key>
                 <string>com.af.firstVideo</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>QrCodeScan</string>
+                <string>测试</string>
             </dict>
             
         </dict>
